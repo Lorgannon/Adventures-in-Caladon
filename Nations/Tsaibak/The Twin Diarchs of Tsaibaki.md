@@ -1,0 +1,1 @@
+The rulers of Tsaibaki are the immortal diarchs, His Majesty, Emperor Trayus, The Dawn-Slayer, The All-Lord, Twice-Crowned, Arch-Saint of the Bloodied Blade, Divine Carnifex; and his sister, her Highness, Domina, the Bloodied Angel, Assassin of the Moon Itself, Our Lady of Red. The pair's origins are a mystery to all
