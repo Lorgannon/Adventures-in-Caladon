@@ -2,7 +2,7 @@
 
 The Tsaibaki Empire is a vast imperial power which takes up most of the Northern region of Caladon. Its immortal rulers, the [[The Twin Diarchs of Tsaibaki|Twin Diarchs]], Trayus and Domina rule the nation with an iron fist.
 
-The Empire's origins are shrouded in mystery, and no one, besides The Diarchs and those close to them is fully sure of when the imperial project began. But its borders continue to slowly expand South, subsuming more and more agricultural nations and small city-states. As of the modern era, expansion has reached something of a standstill as its borders bump against those of [[The Triumvirate of Altria |Altria]] and [[The Commercial Confederation of Oswia|Oswia]].
+The Empire's origins are shrouded in mystery, and no one, besides The Diarchs and those close to them is fully sure of when the imperial project began. But its borders continue to slowly expand South, subsuming more and more agricultural nations and small city-states. As of the modern era, expansion has reached something of a standstill as its borders bump against those of [[The Guildstate of Altria|Altria]] and [[The Commercial Confederation of Oswia|Oswia]].
 
 Tsaibak's neighbors have vastly different methods of dealing with its expansionist ways. Altria has shored up its borders, rallied its armies, and holds its breath for an attack from its northern borders. Oswia on the other hand, has made itself a necessary piece of The Imperial machine. providing industrial products and weapons of war at steep costs, all while maintaining its sovereignty, for now.
 
