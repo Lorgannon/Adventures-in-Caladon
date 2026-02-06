@@ -6,6 +6,7 @@
       {
         "id": "556e736efe12cc73",
         "type": "tabs",
+        "dimension": 68.27354260089686,
         "children": [
           {
             "id": "d185f7f96b265a12",
@@ -26,6 +27,7 @@
       {
         "id": "2a9e7b3243b9ce53",
         "type": "tabs",
+        "dimension": 31.726457399103143,
         "children": [
           {
             "id": "1b51c1b036a49098",
@@ -110,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nations/Tsaibak/The Tsaibaki Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Tsaibaki Empire"
             }
           },
           {
@@ -128,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nations/Tsaibak/The Tsaibaki Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The Tsaibaki Empire"
             }
           },
           {
@@ -170,12 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Nations/Tsaibak/The Tsaibaki Empire.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Tsaibaki Empire"
             }
           },
           {
@@ -207,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b51c1b036a49098",
+  "active": "d185f7f96b265a12",
   "lastOpenFiles": [
     "Nations/Tsaibak/The Tsaibaki Empire.md",
     "Nations/Tsaibak",
