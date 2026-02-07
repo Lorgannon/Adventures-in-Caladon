@@ -6,7 +6,6 @@
       {
         "id": "556e736efe12cc73",
         "type": "tabs",
-        "dimension": 68.27354260089686,
         "children": [
           {
             "id": "d185f7f96b265a12",
@@ -14,29 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/House Rules.md",
+                "file": "Meta/House Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "House Rules"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2a9e7b3243b9ce53",
-        "type": "tabs",
-        "dimension": 31.726457399103143,
-        "children": [
-          {
-            "id": "1b51c1b036a49098",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -209,25 +191,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d185f7f96b265a12",
+  "active": "f906220ddd982701",
   "lastOpenFiles": [
-    "Nations/Kalbrim/The Kalbrimbian Wastes.md",
-    "Rules/House Rules.md",
-    "Rules",
-    "Nations/Murbror/The Murbrorian Protectorate.md",
-    "Nations/Kalbrim/Untitled",
-    "Nations/Kalbrim",
-    "Nations/Oswia/The Commercial Confederation of Oswia.md",
-    "Nations/Altria/The Guildstate of Altria.md",
-    "Nations/Altria/The Guilds of Altria/The Old Trium.md",
-    "Nations/Altria/The Guilds of Altria",
-    "Nations/Murbror",
-    "Nations/Oswia",
-    "Nations/Altria",
-    "Nations/Tsaibak/The Tsaibaki Empire.md",
-    "Nations/Tsaibak",
-    "Nations",
-    "Nations/Tsaibak/The Twin Diarchs of Tsaibaki.md",
+    "Lore",
+    "Lore/Nations/Kalbrim/The Kalbrimbian Wastes.md",
+    "Meta/House Rules.md",
+    "Meta",
+    "Lore/Nations/Murbror/The Murbrorian Protectorate.md",
+    "Lore/Nations/Kalbrim/Untitled",
+    "Lore/Nations/Kalbrim",
+    "Lore/Nations/Oswia/The Commercial Confederation of Oswia.md",
+    "Lore/Nations/Altria/The Guildstate of Altria.md",
+    "Lore/Nations/Altria/The Guilds of Altria/The Old Trium.md",
+    "Lore/Nations/Altria/The Guilds of Altria",
+    "Lore/Nations/Murbror",
+    "Lore/Nations/Oswia",
+    "Lore/Nations/Altria",
+    "Lore/Nations/Tsaibak/The Tsaibaki Empire.md",
+    "Lore/Nations/Tsaibak",
+    "Lore/Nations",
+    "Lore/Nations/Tsaibak/The Twin Diarchs of Tsaibaki.md",
     "Diarchy.md"
   ]
 }
