@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nations/Murbror/The Murbrorian Protectorate.md",
+                "file": "Rules/House Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Murbrorian Protectorate"
+              "title": "House Rules"
             }
           }
         ]
@@ -38,21 +38,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "4a5b84aabef977b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,8 +211,13 @@
   },
   "active": "d185f7f96b265a12",
   "lastOpenFiles": [
-    "Nations/Oswia/The Commercial Confederation of Oswia.md",
+    "Nations/Kalbrim/The Kalbrimbian Wastes.md",
+    "Rules/House Rules.md",
+    "Rules",
     "Nations/Murbror/The Murbrorian Protectorate.md",
+    "Nations/Kalbrim/Untitled",
+    "Nations/Kalbrim",
+    "Nations/Oswia/The Commercial Confederation of Oswia.md",
     "Nations/Altria/The Guildstate of Altria.md",
     "Nations/Altria/The Guilds of Altria/The Old Trium.md",
     "Nations/Altria/The Guilds of Altria",
