@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nations/Tsaibak/The Tsaibaki Empire.md",
+                "file": "Meta/House Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Tsaibaki Empire"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2a9e7b3243b9ce53",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1b51c1b036a49098",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "House Rules"
             }
           }
         ]
@@ -193,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,12 +191,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b51c1b036a49098",
+  "active": "d185f7f96b265a12",
   "lastOpenFiles": [
-    "Nations/Tsaibak/The Tsaibaki Empire.md",
-    "Nations/Tsaibak",
-    "Nations",
-    "Nations/Tsaibak/The Twin Diarchs of Tsaibaki.md",
+    "Meta/Tone and Genre Notes.md",
+    "Meta/House Rules.md",
+    "Lore",
+    "Lore/Nations/Kalbrim/The Kalbrimbian Wastes.md",
+    "Meta",
+    "Lore/Nations/Murbror/The Murbrorian Protectorate.md",
+    "Lore/Nations/Kalbrim/Untitled",
+    "Lore/Nations/Kalbrim",
+    "Lore/Nations/Oswia/The Commercial Confederation of Oswia.md",
+    "Lore/Nations/Altria/The Guildstate of Altria.md",
+    "Lore/Nations/Altria/The Guilds of Altria/The Old Trium.md",
+    "Lore/Nations/Altria/The Guilds of Altria",
+    "Lore/Nations/Murbror",
+    "Lore/Nations/Oswia",
+    "Lore/Nations/Altria",
+    "Lore/Nations/Tsaibak/The Tsaibaki Empire.md",
+    "Lore/Nations/Tsaibak",
+    "Lore/Nations",
+    "Lore/Nations/Tsaibak/The Twin Diarchs of Tsaibaki.md",
     "Diarchy.md"
   ]
 }
