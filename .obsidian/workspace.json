@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nations/Altria/The Guilds of Altria/The Old Trium.md",
+                "file": "Nations/Murbror/The Murbrorian Protectorate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Old Trium"
+              "title": "The Murbrorian Protectorate"
             }
           }
         ]
@@ -222,10 +222,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a5b84aabef977b8",
+  "active": "d185f7f96b265a12",
   "lastOpenFiles": [
-    "Nations/Altria/The Guilds of Altria/The Old Trium.md",
+    "Nations/Oswia/The Commercial Confederation of Oswia.md",
+    "Nations/Murbror/The Murbrorian Protectorate.md",
     "Nations/Altria/The Guildstate of Altria.md",
+    "Nations/Altria/The Guilds of Altria/The Old Trium.md",
     "Nations/Altria/The Guilds of Altria",
     "Nations/Murbror",
     "Nations/Oswia",

@@ -1,0 +1,13 @@
+ ([broad mix of Aesthetics, Tribal Barbarians, Cowboys, Legionaries](https://www.pinterest.com/logangoswick/caladonya/murbrorian-protectorate/)):
+
+Established eons ago, after The First Incursion left Kalbrim an infernal wasteland, The Murbrorian Protectorate is massively diverse collection of houses and mercenary groups devoted, if not  to protecting the rest of Caladon from the horrors of the Wastes, then to the destruction of the Waste’s monstrous inhabitants. The protectorate is mostly made up of the descendants of Old Kalbrim and Murbror, Orcs and Hobgoblins who now hold it as their sacred duty to hold back any future incursions. But over the many years, Other houses and interest groups have found their ways to the Murbrorian’s side. 
+
+These groups include, but are not limited to:
+
+- The McFinley Family, A large, former crime family from the old Oswian Frontiers now devoted to harvesting the rare and dangerous materials of the waste and its endemic life and selling them to the highest bidder.
+    
+- Legio Exul, A former legion of the Tsaibaki Empire. When the Protectorate was first being founded, in the fallout of the first incursion, the Emperor of Tsaibaki sent a legion out into the wastelands to claim the lands beyond for the empire. Whatever that legion found out there changed them forever, and since returning they have turned their backs on the Dawnslayer and have sworn oaths to hold back whatever lay beyond the walls of the protectorate.
+    
+- The Alban Research Colony, a small conclave of wizards and druids who study the flora and fauna of the wastes. Their research is largely funded by private Altrian interests, but is also sustained by donations from various Murbrorian Houses who benefit significantly from easy access to scholarly casters making their homes nearby. They, along with The Scholars of The Ruined Land are often the houses within Murbror that contract Outriders, foreign and domestic, to venture beyond the wall to retrieve relics or samples from Kalbrim.
+    
+- Scholars of The Ruined Land, As far as the average person is concerned, The scholars function to the Research Colony, but with a greater focus on the archaeological points of interest within the Kalbrimbian Wastes. There are whispers of necromantic sects taking root in the Scholars College, and the School’s tendency to maintain secrecy certainly doesn’t help to dispel these rumors.
