@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/House Rules.md",
+                "file": "Lore/Faith in Caladon/The Nature of Divinity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "House Rules"
+              "title": "The Nature of Divinity"
             }
           }
         ]
@@ -193,24 +193,25 @@
   },
   "active": "d185f7f96b265a12",
   "lastOpenFiles": [
-    "Meta/Tone and Genre Notes.md",
-    "Meta/House Rules.md",
-    "Lore",
-    "Lore/Nations/Kalbrim/The Kalbrimbian Wastes.md",
-    "Meta",
-    "Lore/Nations/Murbror/The Murbrorian Protectorate.md",
-    "Lore/Nations/Kalbrim/Untitled",
-    "Lore/Nations/Kalbrim",
     "Lore/Nations/Oswia/The Commercial Confederation of Oswia.md",
+    "Lore/Faith in Caladon/The Nature of Divinity.md",
+    "Lore/Faith in Caladon",
+    "Lore/Nations/Murbror/The Murbrorian Protectorate.md",
+    "Lore/Nations/Kalbrim/The Kalbrimbian Wastes.md",
     "Lore/Nations/Altria/The Guildstate of Altria.md",
     "Lore/Nations/Altria/The Guilds of Altria/The Old Trium.md",
+    "Meta/House Rules.md",
+    "Meta/Tone and Genre Notes.md",
+    "Lore",
+    "Meta",
+    "Lore/Nations/Kalbrim/Untitled",
+    "Lore/Nations/Kalbrim",
     "Lore/Nations/Altria/The Guilds of Altria",
     "Lore/Nations/Murbror",
     "Lore/Nations/Oswia",
     "Lore/Nations/Altria",
     "Lore/Nations/Tsaibak/The Tsaibaki Empire.md",
     "Lore/Nations/Tsaibak",
-    "Lore/Nations",
     "Lore/Nations/Tsaibak/The Twin Diarchs of Tsaibaki.md",
     "Diarchy.md"
   ]
