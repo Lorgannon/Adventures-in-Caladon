@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Faith in Caladon/The Nature of Divinity.md",
+                "file": "Lore/Faith in Caladon/The Church of Aan'ven.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Nature of Divinity"
+              "title": "The Church of Aan'ven"
             }
           }
         ]
@@ -193,8 +193,9 @@
   },
   "active": "d185f7f96b265a12",
   "lastOpenFiles": [
-    "Lore/Nations/Oswia/The Commercial Confederation of Oswia.md",
     "Lore/Faith in Caladon/The Nature of Divinity.md",
+    "Lore/Faith in Caladon/The Church of Aan'ven.md",
+    "Lore/Nations/Oswia/The Commercial Confederation of Oswia.md",
     "Lore/Faith in Caladon",
     "Lore/Nations/Murbror/The Murbrorian Protectorate.md",
     "Lore/Nations/Kalbrim/The Kalbrimbian Wastes.md",
