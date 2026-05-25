@@ -1,0 +1,1 @@
+Tucked into a smog covered valley in the Western reaches of Oswia lies <BJORN's HOMETOWN>
